@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🚀 Quick setup for Roblox AI NPC Village"
+echo "🚀 Quick Roblox Village Setup"
 sudo apt update && sudo apt install -y xfce4 xfce4-session xrdp flatpak
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install -y flathub org.vinegarhq.Vinegar
